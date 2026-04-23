@@ -46,5 +46,7 @@ KiCad, Proteus, MATLAB, EasyEDA
 
 ## 📫 Contact
 
-- Email: rishobankandeepan@gmail.com  
-- LinkedIn: (your link)
+- Email: rishobankandeepan@gmail.com
+- Portfolio: (https://www.notion.so/Hi-I-m-Rishoban-Kandeepan-251a48156db080fa80acd660c4368469)
+- LinkedIn: (https://linkedin.com/in/rishoban-kandeepan)
+
