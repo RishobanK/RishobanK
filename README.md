@@ -1,7 +1,9 @@
 # Hi, I'm Rishoban 👋
 
-🎓 Electrical & Electronic Engineering Undergraduate  
-🔧 Embedded Systems | Sensor Integration | Real-time Control  
+🔧 Embedded Systems Engineer  
+📡 Sensor Integration | Real-Time Control | Hardware–Software Systems  
+
+I design and build real-world embedded systems combining electronics, firmware, and intelligent control logic.
 📍 Sri Lanka  
 
 ---
