@@ -1,4 +1,4 @@
-# Hi, I'm Rishoban 👋
+# Hi, I'm Rishoban Kandeepan👋
 
 🔧 Embedded Systems Engineer  
 📡 Sensor Integration | Real-Time Control | Hardware–Software Systems  
