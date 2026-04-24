@@ -50,6 +50,16 @@ KiCad, Proteus, MATLAB, EasyEDA
 
 ---
 
+## 🛠️ Currently Exploring
+
+- 🐭 **Micromouse Maze Solver**  
+  Planned project focused on wall sensing, PID motor control, encoder feedback, and maze-solving algorithms.
+
+- 🚁 **ESP32 Mini Drone**  
+  Planned project focused on IMU-based attitude estimation, PID stabilization, and brushless motor control.
+
+---
+
 ## 📫 Contact
 
 - Email: rishobankandeepan@gmail.com
