@@ -33,17 +33,20 @@ KiCad, Proteus, MATLAB, EasyEDA
 
 ## 🔥 Featured Projects
 
-- 🚗 **AGV Embedded Control System**  
-  → Real-time motion control + obstacle detection  
-  → [View Project](link)
+- ### 🚗 [AGV Embedded Control System](https://github.com/RishobanK/agv-embedded-control)
+  Embedded C++ firmware for an autonomous guided vehicle with sensor-based control logic.  
+  **Focus:** Real-time motion control, sensor integration, line following, obstacle handling  
+  **Tech:** C++, Arduino/ATmega2560, IR Sensor Array, Load Cell, Stepper Motors
 
-- 🧠 **Kyphosis Wearable System**  
-  → EMG + Gyroscope + Feedback system  
-  → [View Project](link)
+- ### 🧠 [Wearable Kyphosis Management System](https://github.com/RishobanK/wearable-kyphosis-management-system)
+  Wearable embedded system for posture monitoring using EMG sensors, gyroscope-based spinal angle tracking, and vibration feedback.  
+  **Focus:** Sensor fusion, signal processing, posture correction, wearable electronics  
+  **Tech:** Python, ESP32, Raspberry Pi, EMG Sensors, MPU6050, Vibration Motors
 
-- 🧾 **ESP32-S3 Custom Development Board**  
-  → 4-layer PCB + USB-C + RF design  
-  → [View Project](link)
+- ### 🧩 [ESP32-S3 Custom Development Board](https://github.com/RishobanK/esp32-s3-custom-dev-board)
+  Custom ESP32-S3 development board with USB-C, power management, onboard sensing, and PCB design files.  
+  **Focus:** 4-layer PCB design, USB-C interface, RF layout, embedded hardware prototyping  
+  **Tech:** KiCad, ESP32-S3-MINI-1, USB-C, ENS210, 3.3V Power Regulation
 
 ---
 
