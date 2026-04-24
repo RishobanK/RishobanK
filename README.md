@@ -5,7 +5,7 @@
 
 I design and build real-world embedded systems combining electronics, firmware, and intelligent control logic.
 
-📍 Sri Lanka  
+📍 Colombo, Sri Lanka  
 
 ---
 
