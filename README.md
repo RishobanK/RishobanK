@@ -1,6 +1,6 @@
 # Hi, I'm Rishoban Kandeepan👋
 
-🔧 Embedded Systems Engineer  
+🔧 Embedded Firmware Development | Embedded C/C++ | ARM Cortex-M/ESP32 | RTOS & Secure Systems
 📡 Sensor Integration | Real-Time Control | Hardware–Software Systems  
 
 I design and build real-world embedded systems combining electronics, firmware, and intelligent control logic.
